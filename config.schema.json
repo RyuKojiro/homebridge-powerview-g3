@@ -1,15 +1,15 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "PowerViewG3",
   "pluginType": "platform",
   "singular": true,
   "schema": {
     "type": "object",
     "properties": {
-      "name": {
-        "title": "Name",
+      "ip": {
+        "title": "Bridge IP Address",
         "type": "string",
         "required": true,
-        "default": "Example Dynamic Platform"
+        "default": "10.0.0.130"
       }
     }
   }
