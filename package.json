@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "PowerView G3",
+  "name": "homebridge-powerview-g3",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
-  "license": "Apache-2.0",
+  "description": "Hunter Douglas PowerView Gen3 bridge support plugin.",
+  "license": "BSD",
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "https://github.com/RyuKojiro/homebridge-powerview-g3.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/RyuKojiro/homebridge-powerview-g3/issues"
   },
   "engines": {
     "node": ">=14.18.1",
